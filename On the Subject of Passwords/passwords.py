@@ -1,8 +1,8 @@
 print("Keep Talking And Nobody Explodes - Kronorox Solvers")
 print("On the Subject of Passwords")
-print("Version 1.0")
+print("Version 1.01")
 print(" ")
-print("Remeber to rack through the first six(using the arrows), then move to the second set of letters, and so on")
+print("Remember to rack through the first six(using the arrows), then move to the second set of letters, and so on")
 #Loading the file, opening it, then adding it to the list, then closing
 def loadwords():
   words = open("passwordslist.txt", "r")#open the file, read only access
